@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @google-boy
+- 👋 Hi, I’m Hezron
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning Data science with Python
 - 💞️ I’m looking to collaborate on Data science/machine learning projects
