@@ -6,6 +6,8 @@
 
          - otienoh13@gmail.com or
          - +254790551228
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=google-boy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 google-boy/google-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
