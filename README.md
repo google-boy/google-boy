@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hezron
-- 👀 I’m interested in software development and data science
+- 👀 I’m interested in cloud engineering and data science
 - 🌱 I’m currently learning Data science with Python
 - 💞️ I’m looking to collaborate on Data science/machine learning projects
 - 📫 You can reach me on:
