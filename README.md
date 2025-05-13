@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hezron
-- 👀 I’m interested in cloud engineering and data science
-- 🌱 I’m currently learning Data science with Python
-- 💞️ I’m looking to collaborate on Data science/machine learning projects
+- 👀 I’m interested in cloud and devops
+<!-- 🌱 -->
+- 💞️ I’m looking to collaborate on Automation and DevOps focused projects
 - 📫 You can reach me on:
 
          - otienoh13@gmail.com or
